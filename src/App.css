@@ -1,0 +1,79 @@
+
+body{
+    font-family: 'Balsamiq Sans', sans-serif;
+    padding: 15%;
+    padding-top: 10%;
+    max-width: 70%;
+    max-height: 60%;
+    background-image: url("https://t3.ftcdn.net/jpg/03/41/06/58/360_F_341065819_rhKU5ickEQGcGzaaiVL17LIXuvfEfDiM.jpg");
+    /* background-repeat:no-repeat ; */
+}
+
+.header{
+    display:flex;
+    justify-content:space-around; 
+}
+
+.toggle{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    min-width: 1vw;
+    min-height: 1vh;
+}
+
+.componentStaticBeta{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.button{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.options{
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.footer{
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.buttonTwo {
+    margin-left:10%;    
+}
+
+/* .scoreBoard{
+    position: relative;
+} */
+
+.reset{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+
+}
+
+h7{
+    padding: 3%;
+}
